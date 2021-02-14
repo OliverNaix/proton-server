@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Proton Server Core": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "authenticationMode": "Windows"
+    }
+  }
+}

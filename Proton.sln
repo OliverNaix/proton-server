@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proton", "Proton\Proton.csproj", "{EBB8FD0D-B11B-40AB-94F0-A4249C902FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB8FD0D-B11B-40AB-94F0-A4249C902FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB8FD0D-B11B-40AB-94F0-A4249C902FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB8FD0D-B11B-40AB-94F0-A4249C902FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB8FD0D-B11B-40AB-94F0-A4249C902FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE82ABA-C667-4E16-85D0-0ADA0B7AA7CD}
+	EndGlobalSection
+EndGlobal

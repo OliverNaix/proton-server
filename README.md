@@ -1,2 +1,0 @@
-# proton-server
-Server
